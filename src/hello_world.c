@@ -1,7 +1,7 @@
 //=========================================================%
 //CHREC Hello World on Github                              %
 //Author: Justin Richardson                                %
-//Version: 00.00.003                                       %
+//Version: 00.00.004                                       %
 //Description: This document is a test for the             %
 //    functionality of GitHub for our applications         %
 //=========================================================%
